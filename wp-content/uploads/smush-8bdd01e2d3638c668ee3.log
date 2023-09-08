@@ -1,0 +1,916 @@
+[2022-12-10 14:23:07 : INFO] - Re_Smush_It_Task with attachment ID : 905, autocreated on : December 10, 2022 02:23:07 
+[2022-12-10 14:29:20 : INFO] - 
+ 
+[2022-12-10 14:29:20 : INFO] - Header for logs at time:  Sat, 10 Dec 2022 14:29:20 +0000 on https://mlritcie.in 
+[2022-12-10 14:29:20 : INFO] - WP: 6.0.3 
+[2022-12-10 14:29:20 : INFO] - PHP: 7.4.8 (apache2handler, Linux freeweb28.byetcluster.com 2.6.32-954.3.5.lve1.4.78.el6.x86_64 #1 SMP Thu Mar 26 08:20:27 EDT 2020 x86_64) 
+[2022-12-10 14:29:20 : INFO] - MySQL: 5.5.5 
+[2022-12-10 14:29:20 : INFO] - WPLANG: en_US 
+[2022-12-10 14:29:20 : INFO] - Server: Apache 
+[2022-12-10 14:29:20 : INFO] - Outbound connections: N 
+[2022-12-10 14:29:20 : INFO] - safe_mode: 0 
+[2022-12-10 14:29:20 : INFO] - max_execution_time: 60 
+[2022-12-10 14:29:20 : INFO] - memory_limit: 128M (used: 72.9M | 37M) 
+[2022-12-10 14:29:20 : INFO] - multisite: N 
+[2022-12-10 14:29:20 : INFO] - openssl: OpenSSL 1.1.1g  21 Apr 2020 
+[2022-12-10 14:29:20 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2022-12-10 14:29:20 : DEBUG] - Lock option (updraft_lock_smush, wpdg_options) was created in the database 
+[2022-12-10 14:29:20 : INFO] - Lock (updraft_lock_smush, wpdg_options) acquired after initialising the database 
+[2022-12-10 14:29:20 : INFO] - Processing task with ID : 169, and type 'smush' 
+[2022-12-10 14:29:20 : INFO] - Task with ID 169 and type (smush) failed with error code invalid_file_type - /home/vol11_6/epizy.com/epiz_32732388/mlritcie.in/htdocs/wp-content/uploads/2022/12/BlogOnRelationships.pdf - cannot be optimized, it has an invalid file type 
+[2022-12-10 14:29:20 : INFO] - Lock option (updraft_lock_smush, wpdg_options) released 
+[2022-12-10 14:29:20 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2022-12-10 14:29:20 : INFO] - Lock option (updraft_lock_smush, wpdg_options) was deleted from the database 
+[2022-12-10 14:29:20 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2022-12-10 14:40:29 : INFO] - 
+ 
+[2022-12-10 14:40:29 : INFO] - Header for logs at time:  Sat, 10 Dec 2022 14:40:29 +0000 on https://mlritcie.in 
+[2022-12-10 14:40:29 : INFO] - WP: 6.0.3 
+[2022-12-10 14:40:29 : INFO] - PHP: 7.4.8 (apache2handler, Linux freeweb28.byetcluster.com 2.6.32-954.3.5.lve1.4.78.el6.x86_64 #1 SMP Thu Mar 26 08:20:27 EDT 2020 x86_64) 
+[2022-12-10 14:40:29 : INFO] - MySQL: 5.5.5 
+[2022-12-10 14:40:29 : INFO] - WPLANG: en_US 
+[2022-12-10 14:40:29 : INFO] - Server: Apache 
+[2022-12-10 14:40:29 : INFO] - Outbound connections: N 
+[2022-12-10 14:40:29 : INFO] - safe_mode: 0 
+[2022-12-10 14:40:29 : INFO] - max_execution_time: 60 
+[2022-12-10 14:40:29 : INFO] - memory_limit: 128M (used: 72.9M | 47M) 
+[2022-12-10 14:40:29 : INFO] - multisite: N 
+[2022-12-10 14:40:29 : INFO] - openssl: OpenSSL 1.1.1g  21 Apr 2020 
+[2022-12-10 14:40:29 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2022-12-27 12:32:52 : INFO] - Re_Smush_It_Task with attachment ID : 915, autocreated on : December 27, 2022 12:32:52 
+[2022-12-27 12:38:21 : INFO] - 
+ 
+[2022-12-27 12:38:21 : INFO] - Header for logs at time:  Tue, 27 Dec 2022 12:38:21 +0000 on https://mlritcie.in 
+[2022-12-27 12:38:21 : INFO] - WP: 6.0.3 
+[2022-12-27 12:38:21 : INFO] - PHP: 7.4.8 (apache2handler, Linux freeweb28.byetcluster.com 2.6.32-954.3.5.lve1.4.78.el6.x86_64 #1 SMP Thu Mar 26 08:20:27 EDT 2020 x86_64) 
+[2022-12-27 12:38:21 : INFO] - MySQL: 5.5.5 
+[2022-12-27 12:38:21 : INFO] - WPLANG: en_US 
+[2022-12-27 12:38:21 : INFO] - Server: Apache 
+[2022-12-27 12:38:21 : INFO] - Outbound connections: N 
+[2022-12-27 12:38:21 : INFO] - safe_mode: 0 
+[2022-12-27 12:38:21 : INFO] - max_execution_time: 60 
+[2022-12-27 12:38:21 : INFO] - memory_limit: 128M (used: 72.6M | 75M) 
+[2022-12-27 12:38:21 : INFO] - multisite: N 
+[2022-12-27 12:38:21 : INFO] - openssl: OpenSSL 1.1.1g  21 Apr 2020 
+[2022-12-27 12:38:21 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2022-12-27 12:38:21 : DEBUG] - Lock option (updraft_lock_smush, wpdg_options) was created in the database 
+[2022-12-27 12:38:21 : INFO] - Lock (updraft_lock_smush, wpdg_options) acquired after initialising the database 
+[2022-12-27 12:38:21 : INFO] - Processing task with ID : 170, and type 'smush' 
+[2022-12-27 12:38:21 : INFO] - Re_Smush_It_Task with attachment ID : 915, autocreated on : December 27, 2022 12:32:52 
+[2022-12-27 12:38:21 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-27 12:38:21 : INFO] - 100 
+[2022-12-27 12:38:22 : INFO] - Backing up the original image - 2022/11/a12-updraft-pre-smush-original.jpg 
+[2022-12-27 12:38:22 : INFO] - Re_Smush_It_Task with attachment ID : 915, autocreated on : December 27, 2022 12:32:52 
+[2022-12-27 12:38:22 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-27 12:38:22 : INFO] - 100 
+[2022-12-27 12:38:22 : INFO] - Re_Smush_It_Task with attachment ID : 915, autocreated on : December 27, 2022 12:32:52 
+[2022-12-27 12:38:22 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-27 12:38:22 : INFO] - 100 
+[2022-12-27 12:38:22 : INFO] - Re_Smush_It_Task with attachment ID : 915, autocreated on : December 27, 2022 12:32:52 
+[2022-12-27 12:38:22 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-27 12:38:22 : INFO] - 100 
+[2022-12-27 12:38:22 : INFO] - Re_Smush_It_Task with attachment ID : 915, autocreated on : December 27, 2022 12:32:52 
+[2022-12-27 12:38:22 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-27 12:38:22 : INFO] - 100 
+[2022-12-27 12:38:22 : INFO] - Re_Smush_It_Task with attachment ID : 915, autocreated on : December 27, 2022 12:32:52 
+[2022-12-27 12:38:22 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-27 12:38:22 : INFO] - 100 
+[2022-12-27 12:38:22 : INFO] - Re_Smush_It_Task with attachment ID : 915, autocreated on : December 27, 2022 12:32:52 
+[2022-12-27 12:38:22 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-27 12:38:22 : INFO] - 100 
+[2022-12-27 12:38:23 : INFO] - Re_Smush_It_Task with attachment ID : 915, autocreated on : December 27, 2022 12:32:52 
+[2022-12-27 12:38:23 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-27 12:38:23 : INFO] - 100 
+[2022-12-27 12:38:23 : INFO] - Re_Smush_It_Task with attachment ID : 915, autocreated on : December 27, 2022 12:32:52 
+[2022-12-27 12:38:23 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-27 12:38:23 : INFO] - 100 
+[2022-12-27 12:38:23 : INFO] - Re_Smush_It_Task with attachment ID : 915, autocreated on : December 27, 2022 12:32:52 
+[2022-12-27 12:38:23 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-27 12:38:23 : INFO] - 100 
+[2022-12-27 12:38:23 : INFO] - Re_Smush_It_Task with attachment ID : 915, autocreated on : December 27, 2022 12:32:52 
+[2022-12-27 12:38:23 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-27 12:38:23 : INFO] - 100 
+[2022-12-27 12:38:23 : INFO] - Re_Smush_It_Task with attachment ID : 915, autocreated on : December 27, 2022 12:32:52 
+[2022-12-27 12:38:23 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-27 12:38:23 : INFO] - 100 
+[2022-12-27 12:38:24 : INFO] - Re_Smush_It_Task with attachment ID : 915, autocreated on : December 27, 2022 12:32:52 
+[2022-12-27 12:38:24 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-27 12:38:24 : INFO] - 100 
+[2022-12-27 12:38:24 : INFO] - Re_Smush_It_Task with attachment ID : 915, autocreated on : December 27, 2022 12:32:52 
+[2022-12-27 12:38:24 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-27 12:38:24 : INFO] - 100 
+[2022-12-27 12:38:24 : INFO] - Re_Smush_It_Task with attachment ID : 915, autocreated on : December 27, 2022 12:32:52 
+[2022-12-27 12:38:24 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-27 12:38:24 : INFO] - 100 
+[2022-12-27 12:38:24 : INFO] - Re_Smush_It_Task with attachment ID : 915, autocreated on : December 27, 2022 12:32:52 
+[2022-12-27 12:38:24 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-27 12:38:24 : INFO] - 100 
+[2022-12-27 12:38:24 : INFO] - Successfully optimized the image - /home/vol11_6/epizy.com/epiz_32732388/mlritcie.in/htdocs/wp-content/uploads/2022/11/a12.jpg.The file was compressed from 53.55 KB to 52.82 KB saving 1.36 percent using WP-Optimize 
+[2022-12-27 12:38:24 : INFO] - Completed processing task with ID : 170, and type 'smush' 
+[2022-12-27 12:38:24 : INFO] - Lock option (updraft_lock_smush, wpdg_options) released 
+[2022-12-27 12:38:24 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2022-12-27 12:38:24 : INFO] - Lock option (updraft_lock_smush, wpdg_options) was deleted from the database 
+[2022-12-27 12:38:24 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2022-12-27 12:49:46 : INFO] - 
+ 
+[2022-12-27 12:49:46 : INFO] - Header for logs at time:  Tue, 27 Dec 2022 12:49:46 +0000 on https://mlritcie.in 
+[2022-12-27 12:49:46 : INFO] - WP: 6.0.3 
+[2022-12-27 12:49:46 : INFO] - PHP: 7.4.8 (apache2handler, Linux freeweb28.byetcluster.com 2.6.32-954.3.5.lve1.4.78.el6.x86_64 #1 SMP Thu Mar 26 08:20:27 EDT 2020 x86_64) 
+[2022-12-27 12:49:46 : INFO] - MySQL: 5.5.5 
+[2022-12-27 12:49:46 : INFO] - WPLANG: en_US 
+[2022-12-27 12:49:46 : INFO] - Server: Apache 
+[2022-12-27 12:49:46 : INFO] - Outbound connections: N 
+[2022-12-27 12:49:46 : INFO] - safe_mode: 0 
+[2022-12-27 12:49:46 : INFO] - max_execution_time: 60 
+[2022-12-27 12:49:46 : INFO] - memory_limit: 128M (used: 72.8M | 45M) 
+[2022-12-27 12:49:46 : INFO] - multisite: N 
+[2022-12-27 12:49:46 : INFO] - openssl: OpenSSL 1.1.1g  21 Apr 2020 
+[2022-12-27 12:49:46 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2022-12-27 13:26:18 : INFO] - Re_Smush_It_Task with attachment ID : 916, autocreated on : December 27, 2022 01:26:18 
+[2022-12-27 13:33:10 : INFO] - 
+ 
+[2022-12-27 13:33:10 : INFO] - Header for logs at time:  Tue, 27 Dec 2022 13:33:10 +0000 on https://mlritcie.in 
+[2022-12-27 13:33:10 : INFO] - WP: 6.0.3 
+[2022-12-27 13:33:10 : INFO] - PHP: 7.4.8 (apache2handler, Linux freeweb28.byetcluster.com 2.6.32-954.3.5.lve1.4.78.el6.x86_64 #1 SMP Thu Mar 26 08:20:27 EDT 2020 x86_64) 
+[2022-12-27 13:33:10 : INFO] - MySQL: 5.5.5 
+[2022-12-27 13:33:10 : INFO] - WPLANG: en_US 
+[2022-12-27 13:33:10 : INFO] - Server: Apache 
+[2022-12-27 13:33:10 : INFO] - Outbound connections: N 
+[2022-12-27 13:33:10 : INFO] - safe_mode: 0 
+[2022-12-27 13:33:10 : INFO] - max_execution_time: 60 
+[2022-12-27 13:33:10 : INFO] - memory_limit: 128M (used: 72.6M | 69M) 
+[2022-12-27 13:33:10 : INFO] - multisite: N 
+[2022-12-27 13:33:10 : INFO] - openssl: OpenSSL 1.1.1g  21 Apr 2020 
+[2022-12-27 13:33:10 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2022-12-27 13:33:10 : DEBUG] - Lock option (updraft_lock_smush, wpdg_options) was created in the database 
+[2022-12-27 13:33:10 : INFO] - Lock (updraft_lock_smush, wpdg_options) acquired after initialising the database 
+[2022-12-27 13:33:10 : INFO] - Processing task with ID : 171, and type 'smush' 
+[2022-12-27 13:33:10 : INFO] - Re_Smush_It_Task with attachment ID : 916, autocreated on : December 27, 2022 01:26:18 
+[2022-12-27 13:33:10 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-27 13:33:10 : INFO] - 100 
+[2022-12-27 13:33:11 : INFO] - Backing up the original image - 2022/11/a12-updraft-pre-smush-original.png 
+[2022-12-27 13:33:11 : INFO] - Re_Smush_It_Task with attachment ID : 916, autocreated on : December 27, 2022 01:26:18 
+[2022-12-27 13:33:11 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-27 13:33:11 : INFO] - 100 
+[2022-12-27 13:33:11 : INFO] - Re_Smush_It_Task with attachment ID : 916, autocreated on : December 27, 2022 01:26:18 
+[2022-12-27 13:33:11 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-27 13:33:11 : INFO] - 100 
+[2022-12-27 13:33:12 : INFO] - Re_Smush_It_Task with attachment ID : 916, autocreated on : December 27, 2022 01:26:18 
+[2022-12-27 13:33:12 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-27 13:33:12 : INFO] - 100 
+[2022-12-27 13:33:13 : INFO] - Re_Smush_It_Task with attachment ID : 916, autocreated on : December 27, 2022 01:26:18 
+[2022-12-27 13:33:13 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-27 13:33:13 : INFO] - 100 
+[2022-12-27 13:33:14 : INFO] - Re_Smush_It_Task with attachment ID : 916, autocreated on : December 27, 2022 01:26:18 
+[2022-12-27 13:33:15 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-27 13:33:15 : INFO] - 100 
+[2022-12-27 13:33:15 : INFO] - Re_Smush_It_Task with attachment ID : 916, autocreated on : December 27, 2022 01:26:18 
+[2022-12-27 13:33:16 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-27 13:33:16 : INFO] - 100 
+[2022-12-27 13:33:16 : INFO] - Re_Smush_It_Task with attachment ID : 916, autocreated on : December 27, 2022 01:26:18 
+[2022-12-27 13:33:16 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-27 13:33:16 : INFO] - 100 
+[2022-12-27 13:33:16 : INFO] - Re_Smush_It_Task with attachment ID : 916, autocreated on : December 27, 2022 01:26:18 
+[2022-12-27 13:33:16 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-27 13:33:16 : INFO] - 100 
+[2022-12-27 13:33:17 : INFO] - Re_Smush_It_Task with attachment ID : 916, autocreated on : December 27, 2022 01:26:18 
+[2022-12-27 13:33:17 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-27 13:33:17 : INFO] - 100 
+[2022-12-27 13:33:18 : INFO] - Re_Smush_It_Task with attachment ID : 916, autocreated on : December 27, 2022 01:26:18 
+[2022-12-27 13:33:18 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-27 13:33:18 : INFO] - 100 
+[2022-12-27 13:33:19 : INFO] - Re_Smush_It_Task with attachment ID : 916, autocreated on : December 27, 2022 01:26:18 
+[2022-12-27 13:33:19 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-27 13:33:19 : INFO] - 100 
+[2022-12-27 13:33:20 : INFO] - Re_Smush_It_Task with attachment ID : 916, autocreated on : December 27, 2022 01:26:18 
+[2022-12-27 13:33:20 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-27 13:33:20 : INFO] - 100 
+[2022-12-27 13:33:21 : INFO] - Re_Smush_It_Task with attachment ID : 916, autocreated on : December 27, 2022 01:26:18 
+[2022-12-27 13:33:21 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-27 13:33:21 : INFO] - 100 
+[2022-12-27 13:33:22 : INFO] - Re_Smush_It_Task with attachment ID : 916, autocreated on : December 27, 2022 01:26:18 
+[2022-12-27 13:33:22 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-27 13:33:22 : INFO] - 100 
+[2022-12-27 13:33:24 : INFO] - Re_Smush_It_Task with attachment ID : 916, autocreated on : December 27, 2022 01:26:18 
+[2022-12-27 13:33:24 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-27 13:33:24 : INFO] - 100 
+[2022-12-27 13:33:25 : INFO] - Successfully optimized the image - /home/vol11_6/epizy.com/epiz_32732388/mlritcie.in/htdocs/wp-content/uploads/2022/11/a12.png.The file was compressed from 338.72 KB to 221.57 KB saving 34.59 percent using WP-Optimize 
+[2022-12-27 13:33:26 : INFO] - Completed processing task with ID : 171, and type 'smush' 
+[2022-12-27 13:33:26 : INFO] - Lock option (updraft_lock_smush, wpdg_options) released 
+[2022-12-27 13:33:26 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2022-12-27 13:33:26 : INFO] - Lock option (updraft_lock_smush, wpdg_options) was deleted from the database 
+[2022-12-27 13:33:26 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2022-12-27 13:45:14 : INFO] - 
+ 
+[2022-12-27 13:45:14 : INFO] - Header for logs at time:  Tue, 27 Dec 2022 13:45:14 +0000 on https://mlritcie.in 
+[2022-12-27 13:45:14 : INFO] - WP: 6.0.3 
+[2022-12-27 13:45:14 : INFO] - PHP: 7.4.8 (apache2handler, Linux freeweb28.byetcluster.com 2.6.32-954.3.5.lve1.4.78.el6.x86_64 #1 SMP Thu Mar 26 08:20:27 EDT 2020 x86_64) 
+[2022-12-27 13:45:14 : INFO] - MySQL: 5.5.5 
+[2022-12-27 13:45:14 : INFO] - WPLANG: en_US 
+[2022-12-27 13:45:14 : INFO] - Server: Apache 
+[2022-12-27 13:45:14 : INFO] - Outbound connections: N 
+[2022-12-27 13:45:14 : INFO] - safe_mode: 0 
+[2022-12-27 13:45:14 : INFO] - max_execution_time: 60 
+[2022-12-27 13:45:14 : INFO] - memory_limit: 128M (used: 72.8M | 63M) 
+[2022-12-27 13:45:14 : INFO] - multisite: N 
+[2022-12-27 13:45:14 : INFO] - openssl: OpenSSL 1.1.1g  21 Apr 2020 
+[2022-12-27 13:45:14 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2023-04-10 14:25:48 : INFO] - Re_Smush_It_Task with attachment ID : 930, autocreated on : April 10, 2023 02:25:48 
+[2023-04-10 14:26:56 : INFO] - Re_Smush_It_Task with attachment ID : 931, autocreated on : April 10, 2023 02:26:56 
+[2023-04-10 14:30:59 : INFO] - 
+ 
+[2023-04-10 14:30:59 : INFO] - Header for logs at time:  Mon, 10 Apr 2023 14:30:59 +0000 on https://mlritcie.in 
+[2023-04-10 14:30:59 : INFO] - WP: 6.0.3 
+[2023-04-10 14:30:59 : INFO] - PHP: 7.4.8 (apache2handler, Linux freeweb28.byetcluster.com 2.6.32-954.3.5.lve1.4.78.el6.x86_64 #1 SMP Thu Mar 26 08:20:27 EDT 2020 x86_64) 
+[2023-04-10 14:30:59 : INFO] - MySQL: 5.5.5 
+[2023-04-10 14:30:59 : INFO] - WPLANG: en_US 
+[2023-04-10 14:30:59 : INFO] - Server: Apache 
+[2023-04-10 14:30:59 : INFO] - Outbound connections: N 
+[2023-04-10 14:30:59 : INFO] - safe_mode: 0 
+[2023-04-10 14:30:59 : INFO] - max_execution_time: 60 
+[2023-04-10 14:30:59 : INFO] - memory_limit: 128M (used: 73M | 49M) 
+[2023-04-10 14:30:59 : INFO] - multisite: N 
+[2023-04-10 14:30:59 : INFO] - openssl: OpenSSL 1.1.1g  21 Apr 2020 
+[2023-04-10 14:30:59 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2023-04-10 14:30:59 : DEBUG] - Lock option (updraft_lock_smush, wpdg_options) was created in the database 
+[2023-04-10 14:30:59 : INFO] - Lock (updraft_lock_smush, wpdg_options) acquired after initialising the database 
+[2023-04-10 14:30:59 : INFO] - Processing task with ID : 173, and type 'smush' 
+[2023-04-10 14:30:59 : INFO] - Re_Smush_It_Task with attachment ID : 931, autocreated on : April 10, 2023 02:26:56 
+[2023-04-10 14:30:59 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-04-10 14:30:59 : INFO] - 100 
+[2023-04-10 14:31:01 : INFO] - Backing up the original image - 2023/04/insya-updraft-pre-smush-original.png 
+[2023-04-10 14:31:01 : INFO] - Re_Smush_It_Task with attachment ID : 931, autocreated on : April 10, 2023 02:26:56 
+[2023-04-10 14:31:01 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-04-10 14:31:01 : INFO] - 100 
+[2023-04-10 14:31:02 : INFO] - Re_Smush_It_Task with attachment ID : 931, autocreated on : April 10, 2023 02:26:56 
+[2023-04-10 14:31:02 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-04-10 14:31:02 : INFO] - 100 
+[2023-04-10 14:31:03 : INFO] - Re_Smush_It_Task with attachment ID : 931, autocreated on : April 10, 2023 02:26:56 
+[2023-04-10 14:31:03 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-04-10 14:31:03 : INFO] - 100 
+[2023-04-10 14:31:03 : INFO] - Re_Smush_It_Task with attachment ID : 931, autocreated on : April 10, 2023 02:26:56 
+[2023-04-10 14:31:03 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-04-10 14:31:03 : INFO] - 100 
+[2023-04-10 14:31:05 : INFO] - Re_Smush_It_Task with attachment ID : 931, autocreated on : April 10, 2023 02:26:56 
+[2023-04-10 14:31:05 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-04-10 14:31:05 : INFO] - 100 
+[2023-04-10 14:31:06 : INFO] - Re_Smush_It_Task with attachment ID : 931, autocreated on : April 10, 2023 02:26:56 
+[2023-04-10 14:31:06 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-04-10 14:31:06 : INFO] - 100 
+[2023-04-10 14:31:07 : INFO] - Re_Smush_It_Task with attachment ID : 931, autocreated on : April 10, 2023 02:26:56 
+[2023-04-10 14:31:07 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-04-10 14:31:07 : INFO] - 100 
+[2023-04-10 14:31:08 : INFO] - Re_Smush_It_Task with attachment ID : 931, autocreated on : April 10, 2023 02:26:56 
+[2023-04-10 14:31:08 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-04-10 14:31:08 : INFO] - 100 
+[2023-04-10 14:31:08 : INFO] - Re_Smush_It_Task with attachment ID : 931, autocreated on : April 10, 2023 02:26:56 
+[2023-04-10 14:31:08 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-04-10 14:31:08 : INFO] - 100 
+[2023-04-10 14:31:08 : INFO] - Re_Smush_It_Task with attachment ID : 931, autocreated on : April 10, 2023 02:26:56 
+[2023-04-10 14:31:08 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-04-10 14:31:08 : INFO] - 100 
+[2023-04-10 14:31:09 : INFO] - Task with ID 173 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2023-04-10 14:31:09 : INFO] - Re_Smush_It_Task with attachment ID : 931, autocreated on : April 10, 2023 02:26:56 
+[2023-04-10 14:31:09 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-04-10 14:31:09 : INFO] - 100 
+[2023-04-10 14:31:10 : INFO] - Re_Smush_It_Task with attachment ID : 931, autocreated on : April 10, 2023 02:26:56 
+[2023-04-10 14:31:10 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-04-10 14:31:10 : INFO] - 100 
+[2023-04-10 14:31:10 : INFO] - Re_Smush_It_Task with attachment ID : 931, autocreated on : April 10, 2023 02:26:56 
+[2023-04-10 14:31:10 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-04-10 14:31:10 : INFO] - 100 
+[2023-04-10 14:31:11 : INFO] - Re_Smush_It_Task with attachment ID : 931, autocreated on : April 10, 2023 02:26:56 
+[2023-04-10 14:31:11 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-04-10 14:31:11 : INFO] - 100 
+[2023-04-10 14:31:12 : INFO] - Re_Smush_It_Task with attachment ID : 931, autocreated on : April 10, 2023 02:26:56 
+[2023-04-10 14:31:12 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-04-10 14:31:12 : INFO] - 100 
+[2023-04-10 14:31:15 : INFO] - Re_Smush_It_Task with attachment ID : 931, autocreated on : April 10, 2023 02:26:56 
+[2023-04-10 14:31:15 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-04-10 14:31:15 : INFO] - 100 
+[2023-04-10 14:31:16 : INFO] - Re_Smush_It_Task with attachment ID : 931, autocreated on : April 10, 2023 02:26:56 
+[2023-04-10 14:31:16 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-04-10 14:31:16 : INFO] - 100 
+[2023-04-10 14:31:18 : INFO] - Re_Smush_It_Task with attachment ID : 931, autocreated on : April 10, 2023 02:26:56 
+[2023-04-10 14:31:18 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-04-10 14:31:18 : INFO] - 100 
+[2023-04-10 14:31:20 : INFO] - Successfully optimized the image - /home/vol11_6/epizy.com/epiz_32732388/mlritcie.in/htdocs/wp-content/uploads/2023/04/insya.png.The file was compressed from 541.30 KB to 196.31 KB saving 63.73 percent using WP-Optimize 
+[2023-04-10 14:31:20 : INFO] - Completed processing task with ID : 173, and type 'smush' 
+[2023-04-10 14:31:20 : INFO] - Processing task with ID : 172, and type 'smush' 
+[2023-04-10 14:31:20 : INFO] - Re_Smush_It_Task with attachment ID : 930, autocreated on : April 10, 2023 02:25:48 
+[2023-04-10 14:31:20 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-04-10 14:31:20 : INFO] - 100 
+[2023-04-10 14:31:21 : INFO] - Backing up the original image - 2023/04/WhatsApp-Image-2023-04-10-at-19.14.39-updraft-pre-smush-original.jpg 
+[2023-04-10 14:31:21 : INFO] - Re_Smush_It_Task with attachment ID : 930, autocreated on : April 10, 2023 02:25:48 
+[2023-04-10 14:31:21 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-04-10 14:31:21 : INFO] - 100 
+[2023-04-10 14:31:21 : INFO] - Re_Smush_It_Task with attachment ID : 930, autocreated on : April 10, 2023 02:25:48 
+[2023-04-10 14:31:21 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-04-10 14:31:21 : INFO] - 100 
+[2023-04-10 14:31:21 : INFO] - Re_Smush_It_Task with attachment ID : 930, autocreated on : April 10, 2023 02:25:48 
+[2023-04-10 14:31:21 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-04-10 14:31:21 : INFO] - 100 
+[2023-04-10 14:31:22 : INFO] - Re_Smush_It_Task with attachment ID : 930, autocreated on : April 10, 2023 02:25:48 
+[2023-04-10 14:31:22 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-04-10 14:31:22 : INFO] - 100 
+[2023-04-10 14:31:22 : INFO] - Re_Smush_It_Task with attachment ID : 930, autocreated on : April 10, 2023 02:25:48 
+[2023-04-10 14:31:22 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-04-10 14:31:22 : INFO] - 100 
+[2023-04-10 14:31:22 : INFO] - Re_Smush_It_Task with attachment ID : 930, autocreated on : April 10, 2023 02:25:48 
+[2023-04-10 14:31:22 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-04-10 14:31:22 : INFO] - 100 
+[2023-04-10 14:31:23 : INFO] - Re_Smush_It_Task with attachment ID : 930, autocreated on : April 10, 2023 02:25:48 
+[2023-04-10 14:31:23 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-04-10 14:31:23 : INFO] - 100 
+[2023-04-10 14:31:23 : INFO] - Re_Smush_It_Task with attachment ID : 930, autocreated on : April 10, 2023 02:25:48 
+[2023-04-10 14:31:23 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-04-10 14:31:23 : INFO] - 100 
+[2023-04-10 14:31:23 : INFO] - Re_Smush_It_Task with attachment ID : 930, autocreated on : April 10, 2023 02:25:48 
+[2023-04-10 14:31:23 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-04-10 14:31:23 : INFO] - 100 
+[2023-04-10 14:31:23 : INFO] - Re_Smush_It_Task with attachment ID : 930, autocreated on : April 10, 2023 02:25:48 
+[2023-04-10 14:31:23 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-04-10 14:31:23 : INFO] - 100 
+[2023-04-10 14:31:23 : INFO] - Re_Smush_It_Task with attachment ID : 930, autocreated on : April 10, 2023 02:25:48 
+[2023-04-10 14:31:23 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-04-10 14:31:23 : INFO] - 100 
+[2023-04-10 14:31:24 : INFO] - Re_Smush_It_Task with attachment ID : 930, autocreated on : April 10, 2023 02:25:48 
+[2023-04-10 14:31:24 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-04-10 14:31:24 : INFO] - 100 
+[2023-04-10 14:31:24 : INFO] - Re_Smush_It_Task with attachment ID : 930, autocreated on : April 10, 2023 02:25:48 
+[2023-04-10 14:31:24 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-04-10 14:31:24 : INFO] - 100 
+[2023-04-10 14:31:24 : INFO] - Re_Smush_It_Task with attachment ID : 930, autocreated on : April 10, 2023 02:25:48 
+[2023-04-10 14:31:24 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-04-10 14:31:24 : INFO] - 100 
+[2023-04-10 14:31:25 : INFO] - Re_Smush_It_Task with attachment ID : 930, autocreated on : April 10, 2023 02:25:48 
+[2023-04-10 14:31:25 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-04-10 14:31:25 : INFO] - 100 
+[2023-04-10 14:31:25 : INFO] - Re_Smush_It_Task with attachment ID : 930, autocreated on : April 10, 2023 02:25:48 
+[2023-04-10 14:31:25 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-04-10 14:31:25 : INFO] - 100 
+[2023-04-10 14:31:25 : INFO] - Re_Smush_It_Task with attachment ID : 930, autocreated on : April 10, 2023 02:25:48 
+[2023-04-10 14:31:25 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-04-10 14:31:25 : INFO] - 100 
+[2023-04-10 14:31:26 : INFO] - Re_Smush_It_Task with attachment ID : 930, autocreated on : April 10, 2023 02:25:48 
+[2023-04-10 14:31:26 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-04-10 14:31:26 : INFO] - 100 
+[2023-04-10 14:31:26 : INFO] - Successfully optimized the image - /home/vol11_6/epizy.com/epiz_32732388/mlritcie.in/htdocs/wp-content/uploads/2023/04/WhatsApp-Image-2023-04-10-at-19.14.39.jpg.The file was compressed from 116.75 KB to 115.87 KB saving 0.75 percent using WP-Optimize 
+[2023-04-10 14:31:26 : INFO] - Completed processing task with ID : 172, and type 'smush' 
+[2023-04-10 14:31:26 : INFO] - Lock option (updraft_lock_smush, wpdg_options) released 
+[2023-04-10 14:31:26 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2023-04-10 14:31:26 : INFO] - Lock option (updraft_lock_smush, wpdg_options) was deleted from the database 
+[2023-04-10 14:31:26 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2023-04-10 14:31:33 : INFO] - 
+ 
+[2023-04-10 14:31:33 : INFO] - Header for logs at time:  Mon, 10 Apr 2023 14:31:33 +0000 on https://mlritcie.in 
+[2023-04-10 14:31:33 : INFO] - WP: 6.0.3 
+[2023-04-10 14:31:33 : INFO] - PHP: 7.4.8 (apache2handler, Linux freeweb28.byetcluster.com 2.6.32-954.3.5.lve1.4.78.el6.x86_64 #1 SMP Thu Mar 26 08:20:27 EDT 2020 x86_64) 
+[2023-04-10 14:31:33 : INFO] - MySQL: 5.5.5 
+[2023-04-10 14:31:33 : INFO] - WPLANG: en_US 
+[2023-04-10 14:31:33 : INFO] - Server: Apache 
+[2023-04-10 14:31:33 : INFO] - Outbound connections: N 
+[2023-04-10 14:31:33 : INFO] - safe_mode: 0 
+[2023-04-10 14:31:33 : INFO] - max_execution_time: 60 
+[2023-04-10 14:31:33 : INFO] - memory_limit: 128M (used: 73M | 19M) 
+[2023-04-10 14:31:33 : INFO] - multisite: N 
+[2023-04-10 14:31:33 : INFO] - openssl: OpenSSL 1.1.1g  21 Apr 2020 
+[2023-04-10 14:31:33 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2023-06-27 05:33:36 : INFO] - Re_Smush_It_Task with attachment ID : 945, autocreated on : June 27, 2023 05:33:36 
+[2023-06-27 05:42:40 : INFO] - 
+ 
+[2023-06-27 05:42:40 : INFO] - Header for logs at time:  Tue, 27 Jun 2023 05:42:40 +0000 on https://mlritcie.in 
+[2023-06-27 05:42:40 : INFO] - WP: 6.0.3 
+[2023-06-27 05:42:40 : INFO] - PHP: 7.4.8 (apache2handler, Linux freeweb28.byetcluster.com 2.6.32-954.3.5.lve1.4.78.el6.x86_64 #1 SMP Thu Mar 26 08:20:27 EDT 2020 x86_64) 
+[2023-06-27 05:42:40 : INFO] - MySQL: 5.5.5 
+[2023-06-27 05:42:40 : INFO] - WPLANG: en_US 
+[2023-06-27 05:42:40 : INFO] - Server: Apache 
+[2023-06-27 05:42:40 : INFO] - Outbound connections: N 
+[2023-06-27 05:42:40 : INFO] - safe_mode: 0 
+[2023-06-27 05:42:40 : INFO] - max_execution_time: 60 
+[2023-06-27 05:42:40 : INFO] - memory_limit: 128M (used: 72.9M | 45M) 
+[2023-06-27 05:42:40 : INFO] - multisite: N 
+[2023-06-27 05:42:40 : INFO] - openssl: OpenSSL 1.1.1g  21 Apr 2020 
+[2023-06-27 05:42:40 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2023-06-27 05:42:40 : DEBUG] - Lock option (updraft_lock_smush, wpdg_options) was created in the database 
+[2023-06-27 05:42:40 : INFO] - Lock (updraft_lock_smush, wpdg_options) acquired after initialising the database 
+[2023-06-27 05:42:40 : INFO] - Processing task with ID : 174, and type 'smush' 
+[2023-06-27 05:42:40 : INFO] - Re_Smush_It_Task with attachment ID : 945, autocreated on : June 27, 2023 05:33:36 
+[2023-06-27 05:42:40 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-06-27 05:42:40 : INFO] - 100 
+[2023-06-27 05:42:43 : INFO] - Backing up the original image - 2023/06/1687843960831-scaled-updraft-pre-smush-original.jpg 
+[2023-06-27 05:42:43 : INFO] - Re_Smush_It_Task with attachment ID : 945, autocreated on : June 27, 2023 05:33:36 
+[2023-06-27 05:42:43 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-06-27 05:42:43 : INFO] - 100 
+[2023-06-27 05:42:44 : INFO] - Re_Smush_It_Task with attachment ID : 945, autocreated on : June 27, 2023 05:33:36 
+[2023-06-27 05:42:44 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-06-27 05:42:44 : INFO] - 100 
+[2023-06-27 05:42:44 : INFO] - Re_Smush_It_Task with attachment ID : 945, autocreated on : June 27, 2023 05:33:36 
+[2023-06-27 05:42:44 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-06-27 05:42:44 : INFO] - 100 
+[2023-06-27 05:42:45 : INFO] - Re_Smush_It_Task with attachment ID : 945, autocreated on : June 27, 2023 05:33:36 
+[2023-06-27 05:42:45 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-06-27 05:42:45 : INFO] - 100 
+[2023-06-27 05:42:45 : INFO] - Re_Smush_It_Task with attachment ID : 945, autocreated on : June 27, 2023 05:33:36 
+[2023-06-27 05:42:46 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-06-27 05:42:46 : INFO] - 100 
+[2023-06-27 05:42:47 : INFO] - Re_Smush_It_Task with attachment ID : 945, autocreated on : June 27, 2023 05:33:36 
+[2023-06-27 05:42:47 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-06-27 05:42:47 : INFO] - 100 
+[2023-06-27 05:42:49 : INFO] - Re_Smush_It_Task with attachment ID : 945, autocreated on : June 27, 2023 05:33:36 
+[2023-06-27 05:42:50 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-06-27 05:42:50 : INFO] - 100 
+[2023-06-27 05:42:50 : INFO] - Re_Smush_It_Task with attachment ID : 945, autocreated on : June 27, 2023 05:33:36 
+[2023-06-27 05:42:50 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-06-27 05:42:50 : INFO] - 100 
+[2023-06-27 05:42:51 : INFO] - Re_Smush_It_Task with attachment ID : 945, autocreated on : June 27, 2023 05:33:36 
+[2023-06-27 05:42:51 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-06-27 05:42:51 : INFO] - 100 
+[2023-06-27 05:42:51 : INFO] - Re_Smush_It_Task with attachment ID : 945, autocreated on : June 27, 2023 05:33:36 
+[2023-06-27 05:42:51 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-06-27 05:42:51 : INFO] - 100 
+[2023-06-27 05:42:51 : INFO] - Re_Smush_It_Task with attachment ID : 945, autocreated on : June 27, 2023 05:33:36 
+[2023-06-27 05:42:51 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-06-27 05:42:51 : INFO] - 100 
+[2023-06-27 05:42:51 : INFO] - Re_Smush_It_Task with attachment ID : 945, autocreated on : June 27, 2023 05:33:36 
+[2023-06-27 05:42:51 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-06-27 05:42:51 : INFO] - 100 
+[2023-06-27 05:42:52 : INFO] - Re_Smush_It_Task with attachment ID : 945, autocreated on : June 27, 2023 05:33:36 
+[2023-06-27 05:42:52 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-06-27 05:42:52 : INFO] - 100 
+[2023-06-27 05:42:52 : INFO] - Re_Smush_It_Task with attachment ID : 945, autocreated on : June 27, 2023 05:33:36 
+[2023-06-27 05:42:52 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-06-27 05:42:52 : INFO] - 100 
+[2023-06-27 05:42:53 : INFO] - Re_Smush_It_Task with attachment ID : 945, autocreated on : June 27, 2023 05:33:36 
+[2023-06-27 05:42:53 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-06-27 05:42:53 : INFO] - 100 
+[2023-06-27 05:42:53 : INFO] - Re_Smush_It_Task with attachment ID : 945, autocreated on : June 27, 2023 05:33:36 
+[2023-06-27 05:42:54 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-06-27 05:42:54 : INFO] - 100 
+[2023-06-27 05:42:54 : INFO] - Re_Smush_It_Task with attachment ID : 945, autocreated on : June 27, 2023 05:33:36 
+[2023-06-27 05:42:54 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-06-27 05:42:54 : INFO] - 100 
+[2023-06-27 05:42:55 : INFO] - Re_Smush_It_Task with attachment ID : 945, autocreated on : June 27, 2023 05:33:36 
+[2023-06-27 05:42:55 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-06-27 05:42:55 : INFO] - 100 
+[2023-06-27 05:42:56 : INFO] - Re_Smush_It_Task with attachment ID : 945, autocreated on : June 27, 2023 05:33:36 
+[2023-06-27 05:42:56 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-06-27 05:42:56 : INFO] - 100 
+[2023-06-27 05:42:57 : INFO] - Re_Smush_It_Task with attachment ID : 945, autocreated on : June 27, 2023 05:33:36 
+[2023-06-27 05:42:57 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-06-27 05:42:57 : INFO] - 100 
+[2023-06-27 05:42:57 : INFO] - Successfully optimized the image - /home/vol11_6/epizy.com/epiz_32732388/mlritcie.in/htdocs/wp-content/uploads/2023/06/1687843960831-scaled.jpg.The file was compressed from 700.39 KB to 667.89 KB saving 4.64 percent using WP-Optimize 
+[2023-06-27 05:42:57 : INFO] - Completed processing task with ID : 174, and type 'smush' 
+[2023-06-27 05:42:57 : INFO] - Lock option (updraft_lock_smush, wpdg_options) released 
+[2023-06-27 05:42:57 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2023-06-27 05:42:57 : INFO] - Lock option (updraft_lock_smush, wpdg_options) was deleted from the database 
+[2023-06-27 05:42:57 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2023-06-27 05:53:22 : INFO] - 
+ 
+[2023-06-27 05:53:22 : INFO] - Header for logs at time:  Tue, 27 Jun 2023 05:53:22 +0000 on https://mlritcie.in 
+[2023-06-27 05:53:22 : INFO] - WP: 6.0.3 
+[2023-06-27 05:53:22 : INFO] - PHP: 7.4.8 (apache2handler, Linux freeweb28.byetcluster.com 2.6.32-954.3.5.lve1.4.78.el6.x86_64 #1 SMP Thu Mar 26 08:20:27 EDT 2020 x86_64) 
+[2023-06-27 05:53:22 : INFO] - MySQL: 5.5.5 
+[2023-06-27 05:53:22 : INFO] - WPLANG: en_US 
+[2023-06-27 05:53:22 : INFO] - Server: Apache 
+[2023-06-27 05:53:22 : INFO] - Outbound connections: N 
+[2023-06-27 05:53:22 : INFO] - safe_mode: 0 
+[2023-06-27 05:53:22 : INFO] - max_execution_time: 60 
+[2023-06-27 05:53:22 : INFO] - memory_limit: 128M (used: 72.6M | 63M) 
+[2023-06-27 05:53:22 : INFO] - multisite: N 
+[2023-06-27 05:53:22 : INFO] - openssl: OpenSSL 1.1.1g  21 Apr 2020 
+[2023-06-27 05:53:22 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2023-06-27 05:53:23 : INFO] - Re_Smush_It_Task with attachment ID : 947, autocreated on : June 27, 2023 05:53:23 
+[2023-06-27 05:53:28 : INFO] - 
+ 
+[2023-06-27 05:53:28 : INFO] - Header for logs at time:  Tue, 27 Jun 2023 05:53:28 +0000 on https://mlritcie.in 
+[2023-06-27 05:53:28 : INFO] - WP: 6.0.3 
+[2023-06-27 05:53:28 : INFO] - PHP: 7.4.8 (apache2handler, Linux freeweb28.byetcluster.com 2.6.32-954.3.5.lve1.4.78.el6.x86_64 #1 SMP Thu Mar 26 08:20:27 EDT 2020 x86_64) 
+[2023-06-27 05:53:28 : INFO] - MySQL: 5.5.5 
+[2023-06-27 05:53:28 : INFO] - WPLANG: en_US 
+[2023-06-27 05:53:28 : INFO] - Server: Apache 
+[2023-06-27 05:53:28 : INFO] - Outbound connections: N 
+[2023-06-27 05:53:28 : INFO] - safe_mode: 0 
+[2023-06-27 05:53:28 : INFO] - max_execution_time: 60 
+[2023-06-27 05:53:28 : INFO] - memory_limit: 128M (used: 72.9M | 75M) 
+[2023-06-27 05:53:28 : INFO] - multisite: N 
+[2023-06-27 05:53:28 : INFO] - openssl: OpenSSL 1.1.1g  21 Apr 2020 
+[2023-06-27 05:53:28 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2023-06-27 05:53:28 : DEBUG] - Lock option (updraft_lock_smush, wpdg_options) was created in the database 
+[2023-06-27 05:53:28 : INFO] - Lock (updraft_lock_smush, wpdg_options) acquired after initialising the database 
+[2023-06-27 05:53:28 : INFO] - Processing task with ID : 175, and type 'smush' 
+[2023-06-27 05:53:28 : INFO] - Re_Smush_It_Task with attachment ID : 947, autocreated on : June 27, 2023 05:53:23 
+[2023-06-27 05:53:28 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-06-27 05:53:28 : INFO] - 100 
+[2023-06-27 05:53:32 : INFO] - Backing up the original image - 2023/06/IMG_8662-updraft-pre-smush-original.jpg 
+[2023-06-27 05:53:32 : INFO] - Successfully optimized the image - /home/vol11_6/epizy.com/epiz_32732388/mlritcie.in/htdocs/wp-content/uploads/2023/06/IMG_8662-scaled.jpg.The file was compressed from 972.93 KB to 332.20 KB saving 65.86 percent using WP-Optimize 
+[2023-06-27 05:53:32 : INFO] - Completed processing task with ID : 175, and type 'smush' 
+[2023-06-27 05:53:32 : INFO] - Lock option (updraft_lock_smush, wpdg_options) released 
+[2023-06-27 05:53:32 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2023-06-27 05:53:32 : INFO] - Lock option (updraft_lock_smush, wpdg_options) was deleted from the database 
+[2023-06-27 05:53:32 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2023-06-27 06:07:25 : INFO] - 
+ 
+[2023-06-27 06:07:25 : INFO] - Header for logs at time:  Tue, 27 Jun 2023 06:07:25 +0000 on https://mlritcie.in 
+[2023-06-27 06:07:25 : INFO] - WP: 6.0.3 
+[2023-06-27 06:07:25 : INFO] - PHP: 7.4.8 (apache2handler, Linux freeweb28.byetcluster.com 2.6.32-954.3.5.lve1.4.78.el6.x86_64 #1 SMP Thu Mar 26 08:20:27 EDT 2020 x86_64) 
+[2023-06-27 06:07:25 : INFO] - MySQL: 5.5.5 
+[2023-06-27 06:07:25 : INFO] - WPLANG: en_US 
+[2023-06-27 06:07:25 : INFO] - Server: Apache 
+[2023-06-27 06:07:25 : INFO] - Outbound connections: N 
+[2023-06-27 06:07:25 : INFO] - safe_mode: 0 
+[2023-06-27 06:07:25 : INFO] - max_execution_time: 60 
+[2023-06-27 06:07:25 : INFO] - memory_limit: 128M (used: 72.6M | 45M) 
+[2023-06-27 06:07:25 : INFO] - multisite: N 
+[2023-06-27 06:07:25 : INFO] - openssl: OpenSSL 1.1.1g  21 Apr 2020 
+[2023-06-27 06:07:25 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2023-06-27 06:14:17 : INFO] - Re_Smush_It_Task with attachment ID : 950, autocreated on : June 27, 2023 06:14:17 
+[2023-06-27 06:19:34 : INFO] - 
+ 
+[2023-06-27 06:19:34 : INFO] - Header for logs at time:  Tue, 27 Jun 2023 06:19:34 +0000 on https://mlritcie.in 
+[2023-06-27 06:19:34 : INFO] - WP: 6.0.3 
+[2023-06-27 06:19:34 : INFO] - PHP: 7.4.8 (apache2handler, Linux freeweb28.byetcluster.com 2.6.32-954.3.5.lve1.4.78.el6.x86_64 #1 SMP Thu Mar 26 08:20:27 EDT 2020 x86_64) 
+[2023-06-27 06:19:34 : INFO] - MySQL: 5.5.5 
+[2023-06-27 06:19:34 : INFO] - WPLANG: en_US 
+[2023-06-27 06:19:34 : INFO] - Server: Apache 
+[2023-06-27 06:19:34 : INFO] - Outbound connections: N 
+[2023-06-27 06:19:34 : INFO] - safe_mode: 0 
+[2023-06-27 06:19:34 : INFO] - max_execution_time: 60 
+[2023-06-27 06:19:34 : INFO] - memory_limit: 128M (used: 73M | 53M) 
+[2023-06-27 06:19:34 : INFO] - multisite: N 
+[2023-06-27 06:19:34 : INFO] - openssl: OpenSSL 1.1.1g  21 Apr 2020 
+[2023-06-27 06:19:34 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2023-06-27 06:19:34 : DEBUG] - Lock option (updraft_lock_smush, wpdg_options) was created in the database 
+[2023-06-27 06:19:34 : INFO] - Lock (updraft_lock_smush, wpdg_options) acquired after initialising the database 
+[2023-06-27 06:19:34 : INFO] - Processing task with ID : 176, and type 'smush' 
+[2023-06-27 06:19:34 : INFO] - Task with ID 176 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2023-06-27 06:19:34 : INFO] - Lock option (updraft_lock_smush, wpdg_options) released 
+[2023-06-27 06:19:34 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2023-06-27 06:19:34 : INFO] - Lock option (updraft_lock_smush, wpdg_options) was deleted from the database 
+[2023-06-27 06:19:34 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2023-06-27 06:19:36 : INFO] - Re_Smush_It_Task with attachment ID : 951, autocreated on : June 27, 2023 06:19:36 
+[2023-06-27 06:31:16 : INFO] - 
+ 
+[2023-06-27 06:31:16 : INFO] - Header for logs at time:  Tue, 27 Jun 2023 06:31:16 +0000 on https://mlritcie.in 
+[2023-06-27 06:31:16 : INFO] - WP: 6.0.3 
+[2023-06-27 06:31:16 : INFO] - PHP: 7.4.8 (apache2handler, Linux freeweb28.byetcluster.com 2.6.32-954.3.5.lve1.4.78.el6.x86_64 #1 SMP Thu Mar 26 08:20:27 EDT 2020 x86_64) 
+[2023-06-27 06:31:16 : INFO] - MySQL: 5.5.5 
+[2023-06-27 06:31:16 : INFO] - WPLANG: en_US 
+[2023-06-27 06:31:16 : INFO] - Server: Apache 
+[2023-06-27 06:31:16 : INFO] - Outbound connections: N 
+[2023-06-27 06:31:16 : INFO] - safe_mode: 0 
+[2023-06-27 06:31:16 : INFO] - max_execution_time: 60 
+[2023-06-27 06:31:16 : INFO] - memory_limit: 128M (used: 72.6M | 73M) 
+[2023-06-27 06:31:16 : INFO] - multisite: N 
+[2023-06-27 06:31:16 : INFO] - openssl: OpenSSL 1.1.1g  21 Apr 2020 
+[2023-06-27 06:31:16 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2023-06-27 06:31:16 : DEBUG] - Lock option (updraft_lock_smush, wpdg_options) was created in the database 
+[2023-06-27 06:31:16 : INFO] - Lock (updraft_lock_smush, wpdg_options) acquired after initialising the database 
+[2023-06-27 06:31:16 : INFO] - Processing task with ID : 177, and type 'smush' 
+[2023-06-27 06:31:16 : INFO] - Task with ID 177 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2023-06-27 06:31:16 : INFO] - Lock option (updraft_lock_smush, wpdg_options) released 
+[2023-06-27 06:31:16 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2023-06-27 06:31:16 : INFO] - Lock option (updraft_lock_smush, wpdg_options) was deleted from the database 
+[2023-06-27 06:31:16 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2023-06-27 06:46:25 : INFO] - 
+ 
+[2023-06-27 06:46:25 : INFO] - Header for logs at time:  Tue, 27 Jun 2023 06:46:25 +0000 on https://mlritcie.in 
+[2023-06-27 06:46:25 : INFO] - WP: 6.0.3 
+[2023-06-27 06:46:25 : INFO] - PHP: 7.4.8 (apache2handler, Linux freeweb28.byetcluster.com 2.6.32-954.3.5.lve1.4.78.el6.x86_64 #1 SMP Thu Mar 26 08:20:27 EDT 2020 x86_64) 
+[2023-06-27 06:46:25 : INFO] - MySQL: 5.5.5 
+[2023-06-27 06:46:25 : INFO] - WPLANG: en_US 
+[2023-06-27 06:46:25 : INFO] - Server: Apache 
+[2023-06-27 06:46:25 : INFO] - Outbound connections: N 
+[2023-06-27 06:46:25 : INFO] - safe_mode: 0 
+[2023-06-27 06:46:25 : INFO] - max_execution_time: 60 
+[2023-06-27 06:46:25 : INFO] - memory_limit: 128M (used: 72.6M | 73M) 
+[2023-06-27 06:46:25 : INFO] - multisite: N 
+[2023-06-27 06:46:25 : INFO] - openssl: OpenSSL 1.1.1g  21 Apr 2020 
+[2023-06-27 06:46:25 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2023-07-10 17:47:23 : INFO] - Re_Smush_It_Task with attachment ID : 953, autocreated on : July 10, 2023 05:47:23 
+[2023-07-10 17:52:57 : INFO] - 
+ 
+[2023-07-10 17:52:57 : INFO] - Header for logs at time:  Mon, 10 Jul 2023 17:52:57 +0000 on https://mlritcie.in 
+[2023-07-10 17:52:57 : INFO] - WP: 6.0.3 
+[2023-07-10 17:52:57 : INFO] - PHP: 7.4.8 (apache2handler, Linux freeweb28.byetcluster.com 2.6.32-954.3.5.lve1.4.78.el6.x86_64 #1 SMP Thu Mar 26 08:20:27 EDT 2020 x86_64) 
+[2023-07-10 17:52:57 : INFO] - MySQL: 5.5.5 
+[2023-07-10 17:52:57 : INFO] - WPLANG: en_US 
+[2023-07-10 17:52:57 : INFO] - Server: Apache 
+[2023-07-10 17:52:57 : INFO] - Outbound connections: N 
+[2023-07-10 17:52:57 : INFO] - safe_mode: 0 
+[2023-07-10 17:52:57 : INFO] - max_execution_time: 60 
+[2023-07-10 17:52:57 : INFO] - memory_limit: 128M (used: 72.9M | 59M) 
+[2023-07-10 17:52:57 : INFO] - multisite: N 
+[2023-07-10 17:52:57 : INFO] - openssl: OpenSSL 1.1.1g  21 Apr 2020 
+[2023-07-10 17:52:57 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2023-07-10 17:52:57 : DEBUG] - Lock option (updraft_lock_smush, wpdg_options) was created in the database 
+[2023-07-10 17:52:57 : INFO] - Lock (updraft_lock_smush, wpdg_options) acquired after initialising the database 
+[2023-07-10 17:52:57 : INFO] - Processing task with ID : 178, and type 'smush' 
+[2023-07-10 17:52:57 : INFO] - Re_Smush_It_Task with attachment ID : 953, autocreated on : July 10, 2023 05:47:23 
+[2023-07-10 17:52:57 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-10 17:52:57 : INFO] - 100 
+[2023-07-10 17:52:58 : INFO] - Backing up the original image - 2023/07/idk-scaled-updraft-pre-smush-original.jpg 
+[2023-07-10 17:52:58 : INFO] - Re_Smush_It_Task with attachment ID : 953, autocreated on : July 10, 2023 05:47:23 
+[2023-07-10 17:52:59 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-10 17:52:59 : INFO] - 100 
+[2023-07-10 17:52:59 : INFO] - Re_Smush_It_Task with attachment ID : 953, autocreated on : July 10, 2023 05:47:23 
+[2023-07-10 17:52:59 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-10 17:52:59 : INFO] - 100 
+[2023-07-10 17:53:00 : INFO] - Re_Smush_It_Task with attachment ID : 953, autocreated on : July 10, 2023 05:47:23 
+[2023-07-10 17:53:00 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-10 17:53:00 : INFO] - 100 
+[2023-07-10 17:53:00 : INFO] - Re_Smush_It_Task with attachment ID : 953, autocreated on : July 10, 2023 05:47:23 
+[2023-07-10 17:53:00 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-10 17:53:00 : INFO] - 100 
+[2023-07-10 17:53:01 : INFO] - Re_Smush_It_Task with attachment ID : 953, autocreated on : July 10, 2023 05:47:23 
+[2023-07-10 17:53:01 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-10 17:53:01 : INFO] - 100 
+[2023-07-10 17:53:01 : INFO] - Re_Smush_It_Task with attachment ID : 953, autocreated on : July 10, 2023 05:47:23 
+[2023-07-10 17:53:02 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-10 17:53:02 : INFO] - 100 
+[2023-07-10 17:53:03 : INFO] - Re_Smush_It_Task with attachment ID : 953, autocreated on : July 10, 2023 05:47:23 
+[2023-07-10 17:53:03 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-10 17:53:03 : INFO] - 100 
+[2023-07-10 17:53:03 : INFO] - Re_Smush_It_Task with attachment ID : 953, autocreated on : July 10, 2023 05:47:23 
+[2023-07-10 17:53:03 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-10 17:53:03 : INFO] - 100 
+[2023-07-10 17:53:04 : INFO] - Re_Smush_It_Task with attachment ID : 953, autocreated on : July 10, 2023 05:47:23 
+[2023-07-10 17:53:04 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-10 17:53:04 : INFO] - 100 
+[2023-07-10 17:53:04 : INFO] - Re_Smush_It_Task with attachment ID : 953, autocreated on : July 10, 2023 05:47:23 
+[2023-07-10 17:53:04 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-10 17:53:04 : INFO] - 100 
+[2023-07-10 17:53:04 : INFO] - Re_Smush_It_Task with attachment ID : 953, autocreated on : July 10, 2023 05:47:23 
+[2023-07-10 17:53:04 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-10 17:53:04 : INFO] - 100 
+[2023-07-10 17:53:04 : INFO] - Re_Smush_It_Task with attachment ID : 953, autocreated on : July 10, 2023 05:47:23 
+[2023-07-10 17:53:04 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-10 17:53:04 : INFO] - 100 
+[2023-07-10 17:53:05 : INFO] - Re_Smush_It_Task with attachment ID : 953, autocreated on : July 10, 2023 05:47:23 
+[2023-07-10 17:53:05 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-10 17:53:05 : INFO] - 100 
+[2023-07-10 17:53:05 : INFO] - Re_Smush_It_Task with attachment ID : 953, autocreated on : July 10, 2023 05:47:23 
+[2023-07-10 17:53:05 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-10 17:53:05 : INFO] - 100 
+[2023-07-10 17:53:05 : INFO] - Re_Smush_It_Task with attachment ID : 953, autocreated on : July 10, 2023 05:47:23 
+[2023-07-10 17:53:05 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-10 17:53:05 : INFO] - 100 
+[2023-07-10 17:53:05 : INFO] - Re_Smush_It_Task with attachment ID : 953, autocreated on : July 10, 2023 05:47:23 
+[2023-07-10 17:53:05 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-10 17:53:05 : INFO] - 100 
+[2023-07-10 17:53:06 : INFO] - Re_Smush_It_Task with attachment ID : 953, autocreated on : July 10, 2023 05:47:23 
+[2023-07-10 17:53:06 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-10 17:53:06 : INFO] - 100 
+[2023-07-10 17:53:07 : INFO] - Re_Smush_It_Task with attachment ID : 953, autocreated on : July 10, 2023 05:47:23 
+[2023-07-10 17:53:07 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-10 17:53:07 : INFO] - 100 
+[2023-07-10 17:53:07 : INFO] - Re_Smush_It_Task with attachment ID : 953, autocreated on : July 10, 2023 05:47:23 
+[2023-07-10 17:53:07 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-10 17:53:07 : INFO] - 100 
+[2023-07-10 17:53:08 : INFO] - Re_Smush_It_Task with attachment ID : 953, autocreated on : July 10, 2023 05:47:23 
+[2023-07-10 17:53:08 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-10 17:53:08 : INFO] - 100 
+[2023-07-10 17:53:10 : INFO] - Successfully optimized the image - /home/vol11_6/epizy.com/epiz_32732388/mlritcie.in/htdocs/wp-content/uploads/2023/07/idk-scaled.jpg.The file was compressed from 404.75 KB to 367.82 KB saving 9.12 percent using WP-Optimize 
+[2023-07-10 17:53:11 : INFO] - Completed processing task with ID : 178, and type 'smush' 
+[2023-07-10 17:53:11 : INFO] - Lock option (updraft_lock_smush, wpdg_options) released 
+[2023-07-10 17:53:11 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2023-07-10 17:53:11 : INFO] - Lock option (updraft_lock_smush, wpdg_options) was deleted from the database 
+[2023-07-10 17:53:11 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2023-07-10 18:03:16 : INFO] - 
+ 
+[2023-07-10 18:03:16 : INFO] - Header for logs at time:  Mon, 10 Jul 2023 18:03:16 +0000 on https://mlritcie.in 
+[2023-07-10 18:03:16 : INFO] - WP: 6.0.3 
+[2023-07-10 18:03:16 : INFO] - PHP: 7.4.8 (apache2handler, Linux freeweb28.byetcluster.com 2.6.32-954.3.5.lve1.4.78.el6.x86_64 #1 SMP Thu Mar 26 08:20:27 EDT 2020 x86_64) 
+[2023-07-10 18:03:16 : INFO] - MySQL: 5.5.5 
+[2023-07-10 18:03:16 : INFO] - WPLANG: en_US 
+[2023-07-10 18:03:16 : INFO] - Server: Apache 
+[2023-07-10 18:03:16 : INFO] - Outbound connections: N 
+[2023-07-10 18:03:16 : INFO] - safe_mode: 0 
+[2023-07-10 18:03:16 : INFO] - max_execution_time: 60 
+[2023-07-10 18:03:16 : INFO] - memory_limit: 128M (used: 73M | 43M) 
+[2023-07-10 18:03:16 : INFO] - multisite: N 
+[2023-07-10 18:03:16 : INFO] - openssl: OpenSSL 1.1.1g  21 Apr 2020 
+[2023-07-10 18:03:16 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2023-07-10 18:04:47 : INFO] - Re_Smush_It_Task with attachment ID : 955, autocreated on : July 10, 2023 06:04:47 
+[2023-07-10 18:11:45 : INFO] - 
+ 
+[2023-07-10 18:11:45 : INFO] - Header for logs at time:  Mon, 10 Jul 2023 18:11:45 +0000 on https://mlritcie.in 
+[2023-07-10 18:11:45 : INFO] - WP: 6.0.3 
+[2023-07-10 18:11:45 : INFO] - PHP: 7.4.8 (apache2handler, Linux freeweb28.byetcluster.com 2.6.32-954.3.5.lve1.4.78.el6.x86_64 #1 SMP Thu Mar 26 08:20:27 EDT 2020 x86_64) 
+[2023-07-10 18:11:45 : INFO] - MySQL: 5.5.5 
+[2023-07-10 18:11:45 : INFO] - WPLANG: en_US 
+[2023-07-10 18:11:45 : INFO] - Server: Apache 
+[2023-07-10 18:11:45 : INFO] - Outbound connections: N 
+[2023-07-10 18:11:45 : INFO] - safe_mode: 0 
+[2023-07-10 18:11:45 : INFO] - max_execution_time: 60 
+[2023-07-10 18:11:45 : INFO] - memory_limit: 128M (used: 72.9M | 67M) 
+[2023-07-10 18:11:45 : INFO] - multisite: N 
+[2023-07-10 18:11:45 : INFO] - openssl: OpenSSL 1.1.1g  21 Apr 2020 
+[2023-07-10 18:11:45 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2023-07-10 18:11:45 : DEBUG] - Lock option (updraft_lock_smush, wpdg_options) was created in the database 
+[2023-07-10 18:11:45 : INFO] - Lock (updraft_lock_smush, wpdg_options) acquired after initialising the database 
+[2023-07-10 18:11:45 : INFO] - Processing task with ID : 179, and type 'smush' 
+[2023-07-10 18:11:45 : INFO] - Re_Smush_It_Task with attachment ID : 955, autocreated on : July 10, 2023 06:04:47 
+[2023-07-10 18:11:45 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-10 18:11:45 : INFO] - 100 
+[2023-07-10 18:11:46 : INFO] - Backing up the original image - 2023/07/IMG_20230513_122811-scaled-updraft-pre-smush-original.jpg 
+[2023-07-10 18:11:46 : INFO] - Re_Smush_It_Task with attachment ID : 955, autocreated on : July 10, 2023 06:04:47 
+[2023-07-10 18:11:46 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-10 18:11:46 : INFO] - 100 
+[2023-07-10 18:11:47 : INFO] - Re_Smush_It_Task with attachment ID : 955, autocreated on : July 10, 2023 06:04:47 
+[2023-07-10 18:11:47 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-10 18:11:47 : INFO] - 100 
+[2023-07-10 18:11:47 : INFO] - Re_Smush_It_Task with attachment ID : 955, autocreated on : July 10, 2023 06:04:47 
+[2023-07-10 18:11:47 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-10 18:11:47 : INFO] - 100 
+[2023-07-10 18:11:47 : INFO] - Re_Smush_It_Task with attachment ID : 955, autocreated on : July 10, 2023 06:04:47 
+[2023-07-10 18:11:47 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-10 18:11:47 : INFO] - 100 
+[2023-07-10 18:11:48 : INFO] - Re_Smush_It_Task with attachment ID : 955, autocreated on : July 10, 2023 06:04:47 
+[2023-07-10 18:11:48 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-10 18:11:48 : INFO] - 100 
+[2023-07-10 18:11:48 : INFO] - Re_Smush_It_Task with attachment ID : 955, autocreated on : July 10, 2023 06:04:47 
+[2023-07-10 18:11:48 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-10 18:11:48 : INFO] - 100 
+[2023-07-10 18:11:49 : INFO] - Re_Smush_It_Task with attachment ID : 955, autocreated on : July 10, 2023 06:04:47 
+[2023-07-10 18:11:50 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-10 18:11:50 : INFO] - 100 
+[2023-07-10 18:11:50 : INFO] - Re_Smush_It_Task with attachment ID : 955, autocreated on : July 10, 2023 06:04:47 
+[2023-07-10 18:11:50 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-10 18:11:50 : INFO] - 100 
+[2023-07-10 18:11:50 : INFO] - Re_Smush_It_Task with attachment ID : 955, autocreated on : July 10, 2023 06:04:47 
+[2023-07-10 18:11:50 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-10 18:11:50 : INFO] - 100 
+[2023-07-10 18:11:50 : INFO] - Re_Smush_It_Task with attachment ID : 955, autocreated on : July 10, 2023 06:04:47 
+[2023-07-10 18:11:50 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-10 18:11:50 : INFO] - 100 
+[2023-07-10 18:11:51 : INFO] - Re_Smush_It_Task with attachment ID : 955, autocreated on : July 10, 2023 06:04:47 
+[2023-07-10 18:11:51 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-10 18:11:51 : INFO] - 100 
+[2023-07-10 18:11:51 : INFO] - Re_Smush_It_Task with attachment ID : 955, autocreated on : July 10, 2023 06:04:47 
+[2023-07-10 18:11:51 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-10 18:11:51 : INFO] - 100 
+[2023-07-10 18:11:54 : INFO] - Re_Smush_It_Task with attachment ID : 955, autocreated on : July 10, 2023 06:04:47 
+[2023-07-10 18:11:54 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-10 18:11:54 : INFO] - 100 
+[2023-07-10 18:11:54 : INFO] - Re_Smush_It_Task with attachment ID : 955, autocreated on : July 10, 2023 06:04:47 
+[2023-07-10 18:11:54 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-10 18:11:54 : INFO] - 100 
+[2023-07-10 18:11:54 : INFO] - Re_Smush_It_Task with attachment ID : 955, autocreated on : July 10, 2023 06:04:47 
+[2023-07-10 18:11:54 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-10 18:11:54 : INFO] - 100 
+[2023-07-10 18:11:54 : INFO] - Re_Smush_It_Task with attachment ID : 955, autocreated on : July 10, 2023 06:04:47 
+[2023-07-10 18:11:54 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-10 18:11:54 : INFO] - 100 
+[2023-07-10 18:11:55 : INFO] - Re_Smush_It_Task with attachment ID : 955, autocreated on : July 10, 2023 06:04:47 
+[2023-07-10 18:11:55 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-10 18:11:55 : INFO] - 100 
+[2023-07-10 18:11:55 : INFO] - Re_Smush_It_Task with attachment ID : 955, autocreated on : July 10, 2023 06:04:47 
+[2023-07-10 18:11:55 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-10 18:11:55 : INFO] - 100 
+[2023-07-10 18:11:56 : INFO] - Re_Smush_It_Task with attachment ID : 955, autocreated on : July 10, 2023 06:04:47 
+[2023-07-10 18:11:56 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-10 18:11:56 : INFO] - 100 
+[2023-07-10 18:11:56 : INFO] - Re_Smush_It_Task with attachment ID : 955, autocreated on : July 10, 2023 06:04:47 
+[2023-07-10 18:11:56 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-10 18:11:56 : INFO] - 100 
+[2023-07-10 18:11:56 : INFO] - Successfully optimized the image - /home/vol11_6/epizy.com/epiz_32732388/mlritcie.in/htdocs/wp-content/uploads/2023/07/IMG_20230513_122811-scaled.jpg.The file was compressed from 255.20 KB to 236.27 KB saving 7.42 percent using WP-Optimize 
+[2023-07-10 18:11:56 : INFO] - Completed processing task with ID : 179, and type 'smush' 
+[2023-07-10 18:11:56 : INFO] - Lock option (updraft_lock_smush, wpdg_options) released 
+[2023-07-10 18:11:56 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2023-07-10 18:11:56 : INFO] - Lock option (updraft_lock_smush, wpdg_options) was deleted from the database 
+[2023-07-10 18:11:56 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2023-07-10 18:21:58 : INFO] - 
+ 
+[2023-07-10 18:21:58 : INFO] - Header for logs at time:  Mon, 10 Jul 2023 18:21:58 +0000 on https://mlritcie.in 
+[2023-07-10 18:21:58 : INFO] - WP: 6.0.3 
+[2023-07-10 18:21:58 : INFO] - PHP: 7.4.8 (apache2handler, Linux freeweb28.byetcluster.com 2.6.32-954.3.5.lve1.4.78.el6.x86_64 #1 SMP Thu Mar 26 08:20:27 EDT 2020 x86_64) 
+[2023-07-10 18:21:58 : INFO] - MySQL: 5.5.5 
+[2023-07-10 18:21:58 : INFO] - WPLANG: en_US 
+[2023-07-10 18:21:58 : INFO] - Server: Apache 
+[2023-07-10 18:21:58 : INFO] - Outbound connections: N 
+[2023-07-10 18:21:58 : INFO] - safe_mode: 0 
+[2023-07-10 18:21:58 : INFO] - max_execution_time: 60 
+[2023-07-10 18:21:58 : INFO] - memory_limit: 128M (used: 72.9M | 59M) 
+[2023-07-10 18:21:58 : INFO] - multisite: N 
+[2023-07-10 18:21:58 : INFO] - openssl: OpenSSL 1.1.1g  21 Apr 2020 
+[2023-07-10 18:21:58 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2023-07-22 13:16:58 : INFO] - Re_Smush_It_Task with attachment ID : 960, autocreated on : July 22, 2023 01:16:58 
+[2023-07-22 13:24:22 : INFO] - 
+ 
+[2023-07-22 13:24:22 : INFO] - Header for logs at time:  Sat, 22 Jul 2023 13:24:22 +0000 on https://mlritcie.in 
+[2023-07-22 13:24:22 : INFO] - WP: 6.0.3 
+[2023-07-22 13:24:22 : INFO] - PHP: 7.4.8 (apache2handler, Linux freeweb28.byetcluster.com 2.6.32-954.3.5.lve1.4.78.el6.x86_64 #1 SMP Thu Mar 26 08:20:27 EDT 2020 x86_64) 
+[2023-07-22 13:24:22 : INFO] - MySQL: 5.5.5 
+[2023-07-22 13:24:22 : INFO] - WPLANG: en_US 
+[2023-07-22 13:24:22 : INFO] - Server: Apache 
+[2023-07-22 13:24:22 : INFO] - Outbound connections: N 
+[2023-07-22 13:24:22 : INFO] - safe_mode: 0 
+[2023-07-22 13:24:22 : INFO] - max_execution_time: 60 
+[2023-07-22 13:24:22 : INFO] - memory_limit: 128M (used: 72.9M | 57M) 
+[2023-07-22 13:24:22 : INFO] - multisite: N 
+[2023-07-22 13:24:22 : INFO] - openssl: OpenSSL 1.1.1g  21 Apr 2020 
+[2023-07-22 13:24:22 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2023-07-22 13:24:22 : DEBUG] - Lock option (updraft_lock_smush, wpdg_options) was created in the database 
+[2023-07-22 13:24:22 : INFO] - Lock (updraft_lock_smush, wpdg_options) acquired after initialising the database 
+[2023-07-22 13:24:22 : INFO] - Processing task with ID : 180, and type 'smush' 
+[2023-07-22 13:24:22 : INFO] - Task with ID 180 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2023-07-22 13:24:22 : INFO] - Lock option (updraft_lock_smush, wpdg_options) released 
+[2023-07-22 13:24:22 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2023-07-22 13:24:22 : INFO] - Lock option (updraft_lock_smush, wpdg_options) was deleted from the database 
+[2023-07-22 13:24:22 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2023-07-22 13:24:22 : INFO] - Re_Smush_It_Task with attachment ID : 961, autocreated on : July 22, 2023 01:24:22 
+[2023-07-22 14:12:36 : INFO] - 
+ 
+[2023-07-22 14:12:36 : INFO] - Header for logs at time:  Sat, 22 Jul 2023 14:12:36 +0000 on https://mlritcie.in 
+[2023-07-22 14:12:36 : INFO] - WP: 6.0.3 
+[2023-07-22 14:12:36 : INFO] - PHP: 7.4.8 (apache2handler, Linux freeweb28.byetcluster.com 2.6.32-954.3.5.lve1.4.78.el6.x86_64 #1 SMP Thu Mar 26 08:20:27 EDT 2020 x86_64) 
+[2023-07-22 14:12:36 : INFO] - MySQL: 5.5.5 
+[2023-07-22 14:12:36 : INFO] - WPLANG: en_US 
+[2023-07-22 14:12:36 : INFO] - Server: Apache 
+[2023-07-22 14:12:36 : INFO] - Outbound connections: N 
+[2023-07-22 14:12:36 : INFO] - safe_mode: 0 
+[2023-07-22 14:12:36 : INFO] - max_execution_time: 60 
+[2023-07-22 14:12:36 : INFO] - memory_limit: 128M (used: 72.9M | 19M) 
+[2023-07-22 14:12:36 : INFO] - multisite: N 
+[2023-07-22 14:12:36 : INFO] - openssl: OpenSSL 1.1.1g  21 Apr 2020 
+[2023-07-22 14:12:36 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2023-07-22 14:12:36 : DEBUG] - Lock option (updraft_lock_smush, wpdg_options) was created in the database 
+[2023-07-22 14:12:36 : INFO] - Lock (updraft_lock_smush, wpdg_options) acquired after initialising the database 
+[2023-07-22 14:12:36 : INFO] - Processing task with ID : 181, and type 'smush' 
+[2023-07-22 14:12:36 : INFO] - Re_Smush_It_Task with attachment ID : 961, autocreated on : July 22, 2023 01:24:22 
+[2023-07-22 14:12:36 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-22 14:12:36 : INFO] - 100 
+[2023-07-22 14:12:36 : INFO] - Backing up the original image - 2023/07/pic-updraft-pre-smush-original.jpg 
+[2023-07-22 14:12:36 : INFO] - Re_Smush_It_Task with attachment ID : 961, autocreated on : July 22, 2023 01:24:22 
+[2023-07-22 14:12:36 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-22 14:12:36 : INFO] - 100 
+[2023-07-22 14:12:36 : INFO] - Re_Smush_It_Task with attachment ID : 961, autocreated on : July 22, 2023 01:24:22 
+[2023-07-22 14:12:36 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-22 14:12:36 : INFO] - 100 
+[2023-07-22 14:12:37 : INFO] - Re_Smush_It_Task with attachment ID : 961, autocreated on : July 22, 2023 01:24:22 
+[2023-07-22 14:12:37 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-22 14:12:37 : INFO] - 100 
+[2023-07-22 14:12:37 : INFO] - Re_Smush_It_Task with attachment ID : 961, autocreated on : July 22, 2023 01:24:22 
+[2023-07-22 14:12:37 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-22 14:12:37 : INFO] - 100 
+[2023-07-22 14:12:37 : INFO] - Re_Smush_It_Task with attachment ID : 961, autocreated on : July 22, 2023 01:24:22 
+[2023-07-22 14:12:37 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-22 14:12:37 : INFO] - 100 
+[2023-07-22 14:12:37 : INFO] - Re_Smush_It_Task with attachment ID : 961, autocreated on : July 22, 2023 01:24:22 
+[2023-07-22 14:12:37 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-22 14:12:37 : INFO] - 100 
+[2023-07-22 14:12:37 : INFO] - Re_Smush_It_Task with attachment ID : 961, autocreated on : July 22, 2023 01:24:22 
+[2023-07-22 14:12:37 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-22 14:12:37 : INFO] - 100 
+[2023-07-22 14:12:37 : INFO] - Re_Smush_It_Task with attachment ID : 961, autocreated on : July 22, 2023 01:24:22 
+[2023-07-22 14:12:37 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-22 14:12:37 : INFO] - 100 
+[2023-07-22 14:12:37 : INFO] - Re_Smush_It_Task with attachment ID : 961, autocreated on : July 22, 2023 01:24:22 
+[2023-07-22 14:12:37 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-22 14:12:37 : INFO] - 100 
+[2023-07-22 14:12:38 : INFO] - Re_Smush_It_Task with attachment ID : 961, autocreated on : July 22, 2023 01:24:22 
+[2023-07-22 14:12:38 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-22 14:12:38 : INFO] - 100 
+[2023-07-22 14:12:38 : INFO] - Re_Smush_It_Task with attachment ID : 961, autocreated on : July 22, 2023 01:24:22 
+[2023-07-22 14:12:38 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-22 14:12:38 : INFO] - 100 
+[2023-07-22 14:12:38 : INFO] - Re_Smush_It_Task with attachment ID : 961, autocreated on : July 22, 2023 01:24:22 
+[2023-07-22 14:12:38 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-22 14:12:38 : INFO] - 100 
+[2023-07-22 14:12:38 : INFO] - Re_Smush_It_Task with attachment ID : 961, autocreated on : July 22, 2023 01:24:22 
+[2023-07-22 14:12:38 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-22 14:12:38 : INFO] - 100 
+[2023-07-22 14:12:38 : INFO] - Re_Smush_It_Task with attachment ID : 961, autocreated on : July 22, 2023 01:24:22 
+[2023-07-22 14:12:38 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-22 14:12:38 : INFO] - 100 
+[2023-07-22 14:12:39 : INFO] - Re_Smush_It_Task with attachment ID : 961, autocreated on : July 22, 2023 01:24:22 
+[2023-07-22 14:12:39 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-22 14:12:39 : INFO] - 100 
+[2023-07-22 14:12:39 : INFO] - Re_Smush_It_Task with attachment ID : 961, autocreated on : July 22, 2023 01:24:22 
+[2023-07-22 14:12:39 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-22 14:12:39 : INFO] - 100 
+[2023-07-22 14:12:39 : INFO] - Re_Smush_It_Task with attachment ID : 961, autocreated on : July 22, 2023 01:24:22 
+[2023-07-22 14:12:39 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-07-22 14:12:39 : INFO] - 100 
+[2023-07-22 14:12:39 : INFO] - Successfully optimized the image - /home/vol11_6/epizy.com/epiz_32732388/mlritcie.in/htdocs/wp-content/uploads/2023/07/pic.jpg.The file was compressed from 37.49 KB to 37.22 KB saving 0.71 percent using WP-Optimize 
+[2023-07-22 14:12:39 : INFO] - Completed processing task with ID : 181, and type 'smush' 
+[2023-07-22 14:12:39 : INFO] - Lock option (updraft_lock_smush, wpdg_options) released 
+[2023-07-22 14:12:39 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2023-07-22 14:12:39 : INFO] - Lock option (updraft_lock_smush, wpdg_options) was deleted from the database 
+[2023-07-22 14:12:39 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2023-07-22 14:34:31 : INFO] - 
+ 
+[2023-07-22 14:34:31 : INFO] - Header for logs at time:  Sat, 22 Jul 2023 14:34:31 +0000 on https://mlritcie.in 
+[2023-07-22 14:34:31 : INFO] - WP: 6.0.3 
+[2023-07-22 14:34:31 : INFO] - PHP: 7.4.8 (apache2handler, Linux freeweb28.byetcluster.com 2.6.32-954.3.5.lve1.4.78.el6.x86_64 #1 SMP Thu Mar 26 08:20:27 EDT 2020 x86_64) 
+[2023-07-22 14:34:31 : INFO] - MySQL: 5.5.5 
+[2023-07-22 14:34:31 : INFO] - WPLANG: en_US 
+[2023-07-22 14:34:31 : INFO] - Server: Apache 
+[2023-07-22 14:34:31 : INFO] - Outbound connections: N 
+[2023-07-22 14:34:31 : INFO] - safe_mode: 0 
+[2023-07-22 14:34:31 : INFO] - max_execution_time: 60 
+[2023-07-22 14:34:31 : INFO] - memory_limit: 128M (used: 72.6M | 51M) 
+[2023-07-22 14:34:31 : INFO] - multisite: N 
+[2023-07-22 14:34:31 : INFO] - openssl: OpenSSL 1.1.1g  21 Apr 2020 
+[2023-07-22 14:34:31 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
